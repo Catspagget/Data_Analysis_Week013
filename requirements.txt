@@ -1,4 +1,4 @@
 joblib
 streamlit 
 scikit-learn 
-pandas==1.0.5
+pandas
